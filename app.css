@@ -1,0 +1,31 @@
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2015/03/14/19/45/suit-673697_1280.jpg');
+}
+h1
+{
+    margin-top: 2%;
+    text-align: center;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+button
+{
+    font-weight: bold;
+    color:purple;
+    height: 3em;
+    width:10em;
+    border-width: 2%;
+    border-color: blue;
+    border-style: solid;
+    border-radius: 10px;
+    margin-left:45%;
+    margin-top: 1%;
+}
+button:hover{
+    height:3em;
+    width: 11em;
+    box-shadow: 10px 5px 5px purple;
+}
+li
+{
+    color:#3d405b;
+}
