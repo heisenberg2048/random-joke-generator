@@ -1,5 +1,9 @@
+*
+{
+    text-align: center;
+}
 body{
-    background-image: url('https://cdn.pixabay.com/photo/2015/03/14/19/45/suit-673697_1280.jpg');
+    background-color: #e5e5e5;
 }
 h1
 {
@@ -17,8 +21,8 @@ button
     border-color: blue;
     border-style: solid;
     border-radius: 10px;
-    margin-left:45%;
     margin-top: 1%;
+    margin-bottom: 1%;
 }
 button:hover{
     height:3em;
@@ -27,5 +31,5 @@ button:hover{
 }
 li
 {
-    color:#3d405b;
+    color:purple;
 }
